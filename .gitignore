@@ -1,0 +1,22 @@
+# Node.js dependencies
+/anime-chatbot-frontend/node_modules
+
+# Environment variables
+/anime-chatbot-frontend/.env
+/anime-chatbot-backend/.env
+
+# Python virtual environment
+/anime-chatbot-backend/venv
+
+# General
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
